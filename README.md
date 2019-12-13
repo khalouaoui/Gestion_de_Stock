@@ -1,4 +1,4 @@
-# Gestion_de_Stock
+# Stock_Management_Application
 
 A stock management application developed by using spring(MVC,Security), Hibernate, JSP...
 
